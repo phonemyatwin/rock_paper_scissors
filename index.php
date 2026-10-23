@@ -15,7 +15,7 @@
     <link rel="stylesheet" href="./css/output.css">
 </head>
 
-<body class=" text-base text-slate-900 dark:text-slate-100 font-sans font-medium box-border ">
+<body class=" text-base text-slate-900 font-sans font-medium box-border ">
 
     <!-- Header component -->
     <?php include "./components/header.php"; ?>

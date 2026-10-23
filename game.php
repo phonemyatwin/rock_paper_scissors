@@ -5,7 +5,7 @@ $human = $_POST["human"];
 $login = $_POST["login"];
 $logout = $_POST["logout"];
 if (!isset($username)) {
-    die("<p class ='text-4xl font-bold text-red-500 tracking-tighter';>Username parameter missing: Please login first.<p>");
+    die("<p class =\"text-4xl font-bold text-red-500 tracking-tighter\">Username parameter missing: Please login first.</p>");
 }
 if (isset($logout)) {
     header("location:index.php");
@@ -57,7 +57,7 @@ if ($human == -1) {
     <link rel="stylesheet" href="./css/output.css">
 </head>
 
-<body class=" text-base text-slate-900 dark:text-slate-100 font-sans font-medium box-border ">
+<body class=" text-base text-slate-900 font-sans font-medium box-border ">
 
     <!-- Header component -->
     <?php include "./components/header.php"; ?>

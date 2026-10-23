@@ -1,4 +1,4 @@
-<header class="bg-slate-200 dark:bg-slate-700 py-4 shadow-md static top-0 z-10">
+<header class="bg-slate-200 py-4 shadow-md static top-0 z-10">
     <nav class="container max-w-7xl mx-auto flex justify-between items-center">
         <a href="index.php" class="text-xl font-semibold tracking-[-0.07em] ">Rock Paper Scissors</a>
 
