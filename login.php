@@ -35,7 +35,7 @@ if (isset($login)) {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>9b3d99b1</title>
+    <title>Login</title>
     <!-- Tailwind CSS -->
     <link rel="stylesheet" href="./css/output.css">
 </head>
