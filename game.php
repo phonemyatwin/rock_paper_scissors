@@ -5,7 +5,7 @@ $human = $_POST["human"];
 $login = $_POST["login"];
 $logout = $_POST["logout"];
 if (!isset($username)) {
-    die("<p class =\"text-4xl font-bold text-red-500 tracking-tighter\">Username parameter missing: Please login first.</p>");
+    die("<p style = \"display:grid; place-items:center; height:100vh; font-size:2.25rem; font-weight:700; color: #ef4444; letter-spacing: -0.05rem;\">Username parameter missing: Please login first.</p>");
 }
 if (isset($logout)) {
     header("location:index.php");
@@ -52,7 +52,7 @@ if ($human == -1) {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Rock, Paper, Scissor</title>
+    <title>9b3d99b1</title>
     <!-- Tailwind CSS -->
     <link rel="stylesheet" href="./css/output.css">
 </head>
