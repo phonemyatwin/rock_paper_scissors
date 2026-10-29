@@ -1,5 +1,6 @@
 <!-- Model -->
 <?php
+error_reporting(1);
 $stored_password = '1a52e17fa899cf40fb04cfc42e6352f1';
 $username = $_POST["username"];
 $password = $_POST["password"];

@@ -1,5 +1,6 @@
 <!-- Model -->
 <?php
+error_reporting(1);
 $username = $_GET["username"];
 $human = $_POST["human"];
 $login = $_POST["login"];

@@ -1,6 +1,6 @@
 <!-- Model -->
 <?php
-
+error_reporting(1);
 ?>
 
 <!-- View -->
